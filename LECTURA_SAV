@@ -1,0 +1,3 @@
+library(haven)
+Base_Clientes <- read_sav("Base_Clientes.sav")
+View(Base_Clientes)
